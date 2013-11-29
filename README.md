@@ -57,6 +57,11 @@ O desafio deve ser resolvido utilizando a linguagem Java e a IDE NetBeans 7.3 (o
 4. Critérios de Pontuação
 -------------------------
 
+* Cada *issue* terá uma pontuação específica;
+* Cada aluno terá que implementar pelo menos uma *issue* para obter a pontuação mínima;
+* A pontuação será dada de acordo com a complexidade de cada *issue* e com o número de *issue* desenvolvida por cada contribuidor do projeto.
+* A pontuação máxima no projeto será de hum ponto extra na média da disciplina de Teoria da Computação.
+
 5. Referências
 -------------------------
 
