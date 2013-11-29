@@ -1,14 +1,12 @@
-Repositório bonus-teo-comp
+Projeto BonusTeoComp
 ==============
+**Responsável:** Prof. Esdras Lins Bispo Jr. &nbsp; &nbsp; &nbsp; &nbsp; **Email:** bispojr@ufg.br &nbsp; &nbsp; &nbsp; &nbsp;**Data de criação:** 28 de novembro de 2013
 
-Repositório criado para o projeto bônus valendo hum ponto na média na disciplina de Teoria da Computação 2013.2 da UFG Jataí.
 
 1. Introdução
 -------------
 
-No semestre de 2013.2, está sendo ministrada a disciplina de Teoria da Computação no Bacharelado em Ciência da Computação. Nesta disciplina, tópicos em Teoria da Computabilidade estão sendo abordados, como por exemplo, decidibilidade. Foi proposto pelo Prof. Esdras Bispo Jr. a implementação da máquina de Turing que decide a linguagem A<sub>AFD</sub> conforme descrito por Sipser (2007).
-
-Será apresentado a seguir a descrição do problema (Seção 2.1 e Seção 2.2), a metodologia (Seção 3), e os critérios a serem utilizados para atribuição do ponto bônus (Seção 4).
+No semestre de 2013.2, está sendo ministrada a disciplina de Teoria da Computação no Bacharelado em Ciência da Computação na Universidade Federal de Goiás (UFG) no Câmpus Jataí. Nesta disciplina, tópicos em Teoria da Computabilidade estão sendo abordados, como por exemplo, decidibilidade. Foi proposto pelo Prof. Esdras Bispo Jr. a implementação da máquina de Turing que decide a linguagem **L<sub>AFD</sub>**. Será apresentado a seguir a descrição do problema (Seção 2), a metodologia (Seção 3), e os critérios a serem utilizados para atribuição do ponto bônus (Seção 4).
 
 2. Descrição do Problema
 -------------------------
