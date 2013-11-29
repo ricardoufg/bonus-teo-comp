@@ -8,7 +8,7 @@ Repositório criado para o projeto bônus valendo hum ponto na média na discipl
 
 No semestre de 2013.2, está sendo ministrada a disciplina de Teoria da Computação no Bacharelado em Ciência da Computação. Nesta disciplina, tópicos em Teoria da Computabilidade estão sendo abordados, como por exemplo, decidibilidade. Foi proposto pelo Prof. Esdras Bispo Jr. a implementação da máquina de Turing que decide a linguagem A<sub>AFD</sub> conforme descrito por Sipser (2007).
 
-Será apresentado a seguir a descrição do problema (Seção 2), a metodologia (Seção 3), e os critérios a serem utilizados para atribuição do ponto bônus.
+Será apresentado a seguir a descrição do problema (Seção 2.1 e Seção 2.2), a metodologia (Seção 3), e os critérios a serem utilizados para atribuição do ponto bônus (Seção 4).
 
 2. Descrição do Problema
 -------------------------
@@ -45,10 +45,19 @@ um AFD **B** e uma cadeia **w**. Se não, **M<sub>AFD</sub>** *rejeita*.
 >
 > Então **M<sub>AFD</sub>** realiza a simulação diretamente. Ela mantém registro do estado atual de **B** e da posição atual de **B** na entrada **w** escrevendo essa informação na sua fita. Inicialmente, o estado atual de **B** é **q<sub>0</sub>** e a posição atual de **B** sobre a entrada é o símbolo mais à esquerda de **w**. Os estados e a posição são atualizados conforme a função de transição especificada δ. Quando **M<sub>AFD</sub>** termina de processar o último símbolo de **w**, **M<sub>AFD</sub>** aceita a entrada se **B** está em um estado de aceitação; **M<sub>AFD</sub>** rejeita a entrada se **B** está em um estado de não-aceitação.
 
+### 2.2 Desafio proposto ######
+
+O Prof. Esdras Bispo Jr. durante a aula do dia 28 de novembro de 2013 propôs aos alunos a implementação da **M<sub>AFD</sub>**. A proposta foi no sentido de implementar uma máquina de Turing genérica e, depois, instanciar um algoritmo específico para implementar **M<sub>AFD</sub>**. Logo o desafio só será resolvido se **M<sub>AFD</sub>** decidir **L<sub>AFD</sub>** (i.e. para qualquer para \<**B**,**w**\>, **M<sub>AFD</sub>** aceitará ou rejeitará o par). Os pormenores da metodologia da proposta é descrito na seção seguinte.
+
 3. Metodologia
 -------------------------
 
-4. Referências
+O desafio deve ser resolvido utilizando a linguagem Java e a IDE NetBeans 7.3 (ou superior). Será o utilizado o repositório no GitHub (https://github.com/bispojr/bonus-teo-comp/) e as contribuições se darão através de *commits* enviados para o projeto. As contribuições se darão através de implementação de *issues* criadas no repositório referido. Qualquer um poderá criar *issues*, porém apenas aquelas validadas pelo Prof. Esdras Bispo Jr. serão passíveis de serem pontuadas para a disciplina. O paradigma de linguagem utilizado será a orientação para objetos.
+
+4. Critérios de Pontuação
+-------------------------
+
+5. Referências
 -------------------------
 
 * SIPSER, Michael. Introdução à teoria da Computação, 2a Edição, Editora Thomson Learning, 2007.
