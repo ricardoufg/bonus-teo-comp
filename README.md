@@ -1,6 +1,7 @@
 Projeto BonusTeoComp
 ==============
-**Responsável:** Prof. Esdras Lins Bispo Jr. &nbsp; &nbsp; &nbsp; &nbsp; **Email:** bispojr@ufg.br &nbsp; &nbsp; &nbsp; &nbsp;**Data de criação:** 28 de novembro de 2013
+**Responsável:** Prof. Esdras Lins Bispo Jr. &nbsp; &nbsp; &nbsp; &nbsp; **Email:** bispojr@ufg.br <br>
+**Data de criação:** 28 de novembro de 2013
 
 
 1. Introdução
