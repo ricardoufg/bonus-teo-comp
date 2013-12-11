@@ -17,8 +17,10 @@
     along with BWEvaluator.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package principal;
+package br.org.freeUFG.teoComp2013;
 
-public class MaquinaTuring {
-    
+public class BonusTeoComp {
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
 }
