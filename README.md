@@ -51,7 +51,7 @@ O Prof. Esdras Bispo Jr. durante a aula do dia 28 de novembro de 2013 propôs ao
 3. Metodologia
 -------------------------
 
-O desafio deve ser resolvido utilizando a linguagem Java e a IDE NetBeans 7.3 (ou superior). Será o utilizado o repositório no GitHub (https://github.com/bispojr/bonus-teo-comp/) e as contribuições se darão através de *commits* enviados para o projeto. As contribuições se darão através de implementação de *issues* criadas no repositório referido. Qualquer um poderá criar *issues*, porém apenas aquelas validadas pelo Prof. Esdras Bispo Jr. serão passíveis de serem pontuadas para a disciplina. O paradigma de linguagem utilizado será a orientação para objetos.
+O desafio deve ser resolvido utilizando a linguagem Java e a IDE NetBeans 7.3 (ou superior). Será o utilizado o repositório no GitHub (https://github.com/FreeUFG/bonus-teo-comp) e as contribuições se darão através de *commits* enviados para o projeto. As contribuições se darão através de implementação de *issues* criadas no repositório referido. Qualquer um poderá criar *issues*, porém apenas aquelas validadas pelo Prof. Esdras Bispo Jr. serão passíveis de serem pontuadas para a disciplina. O paradigma de linguagem utilizado será a orientação para objetos.
 
 4. Critérios de Pontuação
 -------------------------
