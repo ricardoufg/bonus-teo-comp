@@ -19,12 +19,21 @@
 
 package br.org.freeUFG.teoComp2013;
 
+import java.util.Scanner;
+
 public class Controlador {
     public static void main(String[] args) {
         
-        //Qual linguagem esta máquina aceita?
-        ExemploMT e = new ExemploMT();
-        e.iniciar("00");
+        System.out.println("==================== Marquina de Turing ====================");
+        System.out.println("que lê uma cadeia de caracteres “1” e a transforma em uma cadeia"
+                         + " \ncom extremos “1” e seu interior com “0”.\n"
+                + "Toda cadeia tem que terminar com o valor de vazio “_”"
+                + "Exemplo: 111111111_");
+        System.out.print("\n\nInforme a cadeia: ");
+        ExemploMT mt = new ExemploMT();
+        Scanner sc = new Scanner(System.in);
+        String palavra = sc.nextLine();
+        mt.iniciar(palavra);
         
     }
 }
