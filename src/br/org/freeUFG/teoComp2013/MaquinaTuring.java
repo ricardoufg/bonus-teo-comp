@@ -1,5 +1,5 @@
 /*
-    Copyright © 2013 Esdras Bispo Jr.
+    Copyright © 2013 FreeUFG.
    
     This file is part of BonusTeoComp.
 
